@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"log"
 
-	"../"
+	"github.com/rneugeba/hvsock/go/hvsock"
 )
 
 var (
